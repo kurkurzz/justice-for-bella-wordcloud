@@ -1,8 +1,8 @@
-# justice=for-bella-wordcloud
+# justice-for-bella-wordcloud
 
 Visualise **#Justiceforbella** tweets in word cloud
 
-![#Justiceforbella](outputs\v2.png)
+![#Justiceforbella](outputs/v2.png)
 
 ## Files
 
